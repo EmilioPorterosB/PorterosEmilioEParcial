@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PorterosEmilioEParcial</string>
+
+    <string name="bienvenida">Insert yourself in the excitement of soccer as nations compete for glory in this epic tounament</string>
+    <string name="welcome">Welcome to American Cup 2024</string>
+    <string name="getstarted">GET STARTED</string>
+    <string name="login">LOGIN</string>
+    <string name="hintemail">Email address</string>
+    <string name="hintpassword">Password</string>
+
+</resources>
